@@ -44,7 +44,7 @@
 ### **2. 모델 구성**
 - **신경망 설계**:
   - 3개의 은닉층과 배치 정규화, 드롭아웃 적용.
-  - Softmax 활성화 함수로 다중 클래스 분류.
+  - Softmax 활성화 함수로 분류.
 - **입력 변수**:
   - 시즌 종료 연도, 팀 이름(숫자로 매핑), 홈/원정 승률, 골 차이.
 - **출력 변수**:
@@ -59,17 +59,16 @@
 
 ## **결과**
 - **모델 성능**:
-  - 모든 fold에서 높은 정확도를 달성.
   - 가장 성능이 좋은 모델을 최종적으로 사용.
 - **2024-25 시즌 예측**:
   - **우승팀**: Arsenal.
   - **강등팀**: Wolves, Bournemouth, Brentford.
 - **시각화**:
-  - 팀 순위 막대 그래프.
+  - 최종 순위 표.
   - 경기별 팀 승점 변화 그래프.
 
-![Points Progression](images/points_progression_image.png)
-
+![Points Progression](images/1.png)
+![Points Progression](images/2.png)
 ---
 
 
