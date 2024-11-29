@@ -68,7 +68,7 @@
   - 팀 순위 막대 그래프.
   - 경기별 팀 승점 변화 그래프.
 
-![Points Progression](path/to/points_progression_image.png)
+![Points Progression](images/points_progression_image.png)
 
 ---
 
