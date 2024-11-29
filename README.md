@@ -67,8 +67,8 @@
   - 최종 순위 표.
   - 경기별 팀 승점 변화 그래프.
 
-![Points Progression](images/1.png)
-![Points Progression](images/2.png)
+![Points Progression](image/1.png)
+![Points Progression](image/2.png)
 ---
 
 
