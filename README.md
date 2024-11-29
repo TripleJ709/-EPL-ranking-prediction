@@ -79,10 +79,10 @@
 ---
 
 ## 데이터셋 출처
-- [EPL 경기 결과 데이터셋 (Kaggle)](https://www.kaggle.com/datasets/irkaal/english-premier-league-results)
-- [1992-2022 프리미어리그 경기 데이터](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)
-- [2023-24 시즌 데이터](https://www.kaggle.com/datasets/danilocardoso/premier-league-20232024)
-- [EPL 24-25 데이터 분석](https://www.kaggle.com/code/meraxes10/basic-analysis-on-epl-24-25-data)
+- [1993 ~ 2022 경기 결과](https://www.kaggle.com/datasets/irkaal/english-premier-league-results)
+- [1993 ~ 2023 경기 결과](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)
+- [2023-24 시즌 경기결과](https://www.kaggle.com/datasets/danilocardoso/premier-league-20232024)
+- [2024-25 시즌 경기일정](https://www.kaggle.com/code/meraxes10/basic-analysis-on-epl-24-25-data)
 
 
 
